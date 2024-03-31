@@ -20,7 +20,7 @@ module.exports = {
   SUDO_NUMBERS : "254723616685,254723616685",
   OWNER_NAME: "『FIGANINTY2 』",
   BOT_NAME : "JUMATECHN",
-  ZUSYCO_FILE : "ZUSYCO-QR-1",
+  ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
